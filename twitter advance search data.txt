@@ -1,0 +1,21 @@
+1. News
+	@BBCWorld @CNN @AJEnglish @BBCBreaking @cnnbrk @Independent @SkyNewsBreak
+2. Finance
+	@BBCBusiness @YahooFinance @FinMinIndia @JofFinance @FinMinistryPak @BusinessMN @IFC_org @UKFtweets
+3. Science and Technology
+	@technology @Huawei @SpaceX @techreview @iitmadras @IITKanpur @iitbombay
+4. Education
+	@usedgov @educationweek @mhrd_innovation @AICTE_INDIA @UNESCO @EDU_GovNL @teainfo @EducationFL
+5. Automobile
+	@automobilemag @MuscIeCar @volvocars @SFMTA_Muni @CARmagazine
+6. Sports
+	@BBCSport @SkySports @TwitterSports @NFLonFOX @ESL @YahooSports @EASPORTS
+7. Film Industry
+	@ieEntertainment @hollywoodnetflx @awesomeitv @etimes @PHVegas
+8. Fitness
+	@muscle_fitness @FitnessMagazine @LAFitness
+9. Environment
+	@BBCEarth @NatGeo @Discovery
+10. Health and Medicine
+	@NASEM_Health @HopkinsMedicine @medical_xpress @HarvardHealth
+ 
